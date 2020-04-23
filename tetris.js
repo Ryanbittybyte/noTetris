@@ -202,12 +202,12 @@ let updateScore = () => {
 }
 const colors = [
     null,
-    'blue',
-    'green',
-    'purple',
-    'light green',
-    'pink',
-    'yellow',
+    'rgb(252,48,137)',
+    'rgb(89,57,234)',
+    'rgb(49,167,228)',
+    'rgb(255,218,100)',
+    'rgb(253,140,121)',
+    'rgb(40,200,231)',
 ]
 const arena = createMatrix(12,20);
 
